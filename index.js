@@ -25,8 +25,7 @@ function randomWalk(configOverride) {
         maxPathLength: configOverride.maxPathLength || 12,
         maxWidth: configOverride.maxWidth || 30,
         maxHeight: configOverride.maxHeight || 30,
-        startPosition: configOverride.startPosition || {x: -1, y: -1},
-        shrinkMap: configOverride.shrinkMap || false
+        startPosition: configOverride.startPosition || {x: -1, y: -1}
     }
 
     //Ensure valid starting position
