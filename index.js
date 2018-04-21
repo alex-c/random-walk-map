@@ -13,7 +13,7 @@ function validatePosition(map, x, y) {
         && y < map.length;
 }
 
-function randomWalk(configOverride) {
+function generateMap(configOverride) {
 
     //Make config parameter optional
     var configOverride = configOverride || {}
@@ -90,3 +90,5 @@ function randomWalk(configOverride) {
     //Done generating!
     return map;
 }
+
+module.exports = generateMap;
