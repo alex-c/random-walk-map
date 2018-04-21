@@ -1,0 +1,27 @@
+{
+  "name": "random-walk-map",
+  "version": "0.1.0",
+  "description": "2D map generator based on random walk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-c/random-walk-map.git"
+  },
+  "keywords": [
+    "random walk",
+    "map generator",
+    "map generation",
+    "dungeon generator",
+    "dungeon generation",
+    "2d map"
+  ],
+  "author": "Alexandre Charoy",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alex-c/random-walk-map/issues"
+  },
+  "homepage": "https://github.com/alex-c/random-walk-map#readme"
+}
