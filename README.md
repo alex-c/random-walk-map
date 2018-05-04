@@ -1,5 +1,5 @@
 # random-walk-map
-Two-dimensional maps generator using random walk.
+Two-dimensional maps generator using random walk. For procedural generation using a seed, check out [procedural-map](https://github.com/alex-c/procedural-map).
 
 ## Installation
 Install via npm:
